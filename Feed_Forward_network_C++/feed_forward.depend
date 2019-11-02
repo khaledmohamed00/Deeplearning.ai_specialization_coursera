@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1569338068 source:/mnt/407242D87242D1F8/study/hackerRank/feed_forward/main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-
